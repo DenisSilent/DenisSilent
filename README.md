@@ -1,7 +1,7 @@
 - 👋 Hi, @DenisSilent here!
 - 👀 I’m interested in: modding the game Stardew Valley
 - 🌱 I’m currently learning: JSON coding for NPC mod to the game Stardew Valley
-- 📫 How to reach me: DM me here on GitHub (is it even possible???)
+- 📫 How to reach me: DM me here on GitHub (is it even possible???) using Issues or Pull request, or DM me on Nexus Mods
 - 😄 Pronouns: He
 
 <!---
